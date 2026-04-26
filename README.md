@@ -41,6 +41,11 @@
     <li>Transcripts focus purely on the verbal exchange between the human participant and the robotic agent.</li>
 </ul>
 
+<div class="anonymization-note">
+    <strong>Privacy & Anonymization Note:</strong><br>
+    To protect participant confidentiality, all personal information including names, specific locations, and other identifiable data points have been removed and replaced with standardized placeholders: <code>[NAME]</code>, <code>[PLACE]</code>, etc.
+</div>
+
 <h2>Research Context</h2>
 <p>These transcripts support the analysis of how conversational strategies shape embodied interaction. By triangulating this text with physical metrics (captured separately), the research establishes that physical-affective signals are sensitive indicators of interaction quality, but semantic richness is essential for sustaining meaningful engagement.</p>
 
